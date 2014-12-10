@@ -1,4 +1,1 @@
-TestBoard
-=========
-
-Dashing test status board
+Check out http://shopify.github.com/dashing for more information.

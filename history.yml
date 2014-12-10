@@ -1,0 +1,31 @@
+---
+buzzwords: |+
+  data: {"items":[{"label":"Web 2.0","value":25},{"label":"Synergy","value":23},{"label":"Paradigm shift","value":12},{"label":"Streamlininess","value":17},{"label":"Pivoting","value":14},{"label":"Enterprise","value":25},{"label":"Exit strategy","value":15},{"label":"Turn-key","value":7},{"label":"Leverage","value":28}],"id":"buzzwords","updatedAt":1418179040}
+
+convergence: |+
+  data: {"points":[{"x":2567,"y":21},{"x":2568,"y":19},{"x":2569,"y":34},{"x":2570,"y":8},{"x":2571,"y":22},{"x":2572,"y":7},{"x":2573,"y":17},{"x":2574,"y":19},{"x":2575,"y":46},{"x":2576,"y":9}],"id":"convergence","updatedAt":1418179040}
+
+valuation: |+
+  data: {"current":63,"last":95,"id":"valuation","updatedAt":1418179040}
+
+karma: |+
+  data: {"value":93435,"last":71396,"id":"karma","updatedAt":1418179040}
+
+synergy: |+
+  data: {"value":0,"id":"synergy","updatedAt":1418179040}
+
+widget_id: |+
+  data: {"id":"widget_id","updatedAt":1417756414}
+
+testpass: |+
+  data: {"value":93435,"last":71396,"id":"testpass","updatedAt":1418179040}
+
+test_data: |+
+  data: {"passed":97,"last_passed":98,"failed":0,"not_run":30,"id":"test_data","updatedAt":1418099878}
+
+unit_test_data: |+
+  data: {"passed":140,"last_passed":138,"failed":0,"not_run":50,"id":"unit_test_data","updatedAt":1418179038}
+
+system_test_data: |+
+  data: {"passed":53,"last_passed":36,"failed":47,"not_run":0,"id":"system_test_data","updatedAt":1418179038}
+
