@@ -4,10 +4,8 @@ class Dashing.Tests extends Dashing.Widget
     "#{parseInt(@get('passed'))} passing"
 
   @accessor 'failing', ->
-    "#{parseInt(@get('failed'))} failing"
-
-  @accessor 'ignored', ->
-    "#{parseInt(@get('not_run'))} ignored"
+  if @get('failed')
+    "#{parseInt(@get('failed'))}"
 
   @accessor 'difference', ->
     if @get('last_passed')
@@ -57,17 +55,6 @@ class Dashing.Tests extends Dashing.Widget
       segmentShowStroke : false
     )
 
-    # Set the widget background colour needs to go red when tests fail
-    if @get('failed')
-      failed = parseInt(@get('failed'))
-      if failed != 0
-        $(@node).css('background-color', '##EE4042')
-      else
-        $(@node).css('background-color', '#222222')
-
-    else
-      $(@node).css('background-color', '#222222')
-
   onData: (data) ->
 
     if @myDoughnut
@@ -83,5 +70,12 @@ class Dashing.Tests extends Dashing.Widget
         c.replace /\bstatus-\S+/g, ''
       # add new class
       $(@get('node')).addClass "status-#{data.status}"
+
+    # Set the widget background colour needs to go red when tests fail
+    failed = parseInt(@get('failed'))
+    if failed = 0
+      $(@node).css('background-color', '##EE4042')
+    else
+      $(@node).css('background-color', '#222222')
 
 
