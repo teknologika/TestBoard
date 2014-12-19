@@ -1,31 +1,37 @@
 ---
 buzzwords: |+
-  data: {"items":[{"label":"Enterprise","value":7},{"label":"Exit strategy","value":6},{"label":"Pivoting","value":13},{"label":"Streamlininess","value":10},{"label":"Synergy","value":6},{"label":"Web 2.0","value":6},{"label":"Leverage","value":8},{"label":"Paradigm shift","value":10},{"label":"Turn-key","value":9}],"id":"buzzwords","updatedAt":1418257099}
+  data: {"items":[{"label":"Turn-key","value":1}],"id":"buzzwords","updatedAt":1418961159}
 
 convergence: |+
-  data: {"points":[{"x":76,"y":18},{"x":77,"y":32},{"x":78,"y":11},{"x":79,"y":38},{"x":80,"y":14},{"x":81,"y":23},{"x":82,"y":40},{"x":83,"y":26},{"x":84,"y":25},{"x":85,"y":18}],"id":"convergence","updatedAt":1418257099}
+  data: {"points":[{"x":2,"y":5},{"x":3,"y":17},{"x":4,"y":47},{"x":5,"y":5},{"x":6,"y":10},{"x":7,"y":34},{"x":8,"y":40},{"x":9,"y":35},{"x":10,"y":5},{"x":11,"y":15}],"id":"convergence","updatedAt":1418961159}
 
 valuation: |+
-  data: {"current":24,"last":52,"id":"valuation","updatedAt":1418257099}
+  data: {"current":99,"last":0,"id":"valuation","updatedAt":1418961159}
 
 karma: |+
-  data: {"value":137984,"last":192205,"id":"karma","updatedAt":1418257099}
+  data: {"value":167892,"last":0,"id":"karma","updatedAt":1418961159}
 
 synergy: |+
-  data: {"value":18,"id":"synergy","updatedAt":1418257099}
+  data: {"value":68,"id":"synergy","updatedAt":1418961159}
 
 widget_id: |+
   data: {"id":"widget_id","updatedAt":1417756414}
 
 testpass: |+
-  data: {"value":137984,"last":192205,"id":"testpass","updatedAt":1418257099}
+  data: {"value":142743,"last":11367,"id":"testpass","updatedAt":1418960981}
 
 test_data: |+
   data: {"passed":97,"last_passed":98,"failed":0,"not_run":30,"id":"test_data","updatedAt":1418099878}
 
 unit_test_data: |+
-  data: {"passed":140,"last_passed":138,"ignored":10,"failed":0,"not_run":0,"duration":103,"id":"unit_test_data","updatedAt":1418256700}
+  data: {"passed":110,"last_passed":0,"ignored":0,"failed":0,"not_run":0,"duration":45,"status":"ok","id":"unit_test_data","updatedAt":1418961157}
 
 system_test_data: |+
-  data: {"passed":14,"last_passed":14,"ignored":0,"failed":0,"not_run":0,"duration":518,"status":"ok","id":"system_test_data","updatedAt":1418256884}
+  data: {"passed":130,"last_passed":0,"ignored":0,"failed":0,"not_run":0,"duration":103,"status":"ok","id":"system_test_data","updatedAt":1418961157}
+
+squickquote_gui_test_data: |+
+  data: {"passed":4,"last_passed":4,"ignored":0,"failed":0,"not_run":0,"duration":58,"status":"ok","id":"squickquote_gui_test_data","updatedAt":1418797062}
+
+quickquote_gui_test_data: |+
+  data: {"passed":4,"last_passed":4,"ignored":0,"failed":0,"not_run":0,"duration":58,"status":"ok","id":"quickquote_gui_test_data","updatedAt":1418880558}
 
