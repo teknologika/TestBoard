@@ -15,10 +15,11 @@ $chart-height:      100%;
 .widget-tests {
 
   background-color: $background-color;
+  padding: 5px 5px 5px 5px !important;
 
   .title {
     color: $title-color;
-    font-size: 2vw;
+    font-size: 1.8vw;
   }
 
   .value {
@@ -27,14 +28,13 @@ $chart-height:      100%;
 
   .change-rate {
     font-weight: 500;
-  //  padding-top:20px;
-//    padding-bottom:20px;
     color: $value-color;
-    font-size: 1.5vw;
+    font-size: 1vw;
   }
 
   .more-info {
     color: $moreinfo-color;
+    font-size: 0.8vw;
 
   }
 

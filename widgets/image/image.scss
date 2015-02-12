@@ -1,7 +1,7 @@
 // ----------------------------------------------------------------------------
 // Sass declarations
 // ----------------------------------------------------------------------------
-$background-color:  #4b4b4b;
+$background-color: rgb(34, 34, 34);
 
 // ----------------------------------------------------------------------------
 // Widget-image styles
@@ -9,5 +9,15 @@ $background-color:  #4b4b4b;
 .widget-image {
 
   background-color: $background-color;
+  padding: 0px 0px 0px 0px !important;
+}
 
+.image-label {
+  font-size: 3vw;
+  color:rgb(170, 170, 170) !important;
+  position: absolute;
+  bottom: 32px;
+  text-align:center;
+  left: 0;
+  right: 0;
 }
