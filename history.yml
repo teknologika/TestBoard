@@ -1,18 +1,18 @@
 ---
 buzzwords: |+
-  data: {"items":[{"label":"Exit strategy","value":26},{"label":"Web 2.0","value":24},{"label":"Turn-key","value":7},{"label":"Streamlininess","value":5},{"label":"Pivoting","value":23},{"label":"Synergy","value":22},{"label":"Paradigm shift","value":3},{"label":"Enterprise","value":16},{"label":"Leverage","value":19}],"id":"buzzwords","updatedAt":1423685520}
+  data: {"items":[{"label":"Pivoting","value":20},{"label":"Synergy","value":6},{"label":"Streamlininess","value":1},{"label":"Exit strategy","value":29},{"label":"Paradigm shift","value":12},{"label":"Web 2.0","value":20},{"label":"Leverage","value":12},{"label":"Turn-key","value":7},{"label":"Enterprise","value":9}],"id":"buzzwords","updatedAt":1423707413}
 
 convergence: |+
-  data: {"points":[{"x":13826,"y":20},{"x":13827,"y":18},{"x":13828,"y":3},{"x":13829,"y":17},{"x":13830,"y":23},{"x":13831,"y":41},{"x":13832,"y":23},{"x":13833,"y":3},{"x":13834,"y":25},{"x":13835,"y":6}],"id":"convergence","updatedAt":1423685520}
+  data: {"points":[{"x":1617,"y":7},{"x":1618,"y":25},{"x":1619,"y":5},{"x":1620,"y":7},{"x":1621,"y":41},{"x":1622,"y":41},{"x":1623,"y":45},{"x":1624,"y":7},{"x":1625,"y":30},{"x":1626,"y":23}],"id":"convergence","updatedAt":1423707413}
 
 valuation: |+
-  data: {"current":19,"last":14,"id":"valuation","updatedAt":1423685520}
+  data: {"current":30,"last":61,"id":"valuation","updatedAt":1423707413}
 
 karma: |+
-  data: {"value":95449,"last":22736,"id":"karma","updatedAt":1423685520}
+  data: {"value":114490,"last":183820,"id":"karma","updatedAt":1423707413}
 
 synergy: |+
-  data: {"value":89,"id":"synergy","updatedAt":1423685520}
+  data: {"value":18,"id":"synergy","updatedAt":1423707413}
 
 widget_id: |+
   data: {"id":"widget_id","updatedAt":1417756414}
@@ -24,10 +24,10 @@ test_data: |+
   data: {"passed":97,"last_passed":98,"failed":0,"not_run":30,"id":"test_data","updatedAt":1418099878}
 
 unit_test_data: |+
-  data: {"passed":360,"last_passed":360,"ignored":0,"failed":0,"not_run":0,"duration":2,"status":"ok","id":"unit_test_data","updatedAt":1423685527}
+  data: {"passed":360,"last_passed":360,"ignored":0,"failed":0,"not_run":0,"duration":2,"status":"ok","id":"unit_test_data","updatedAt":1423707411}
 
 system_test_data: |+
-  data: {"passed":360,"last_passed":360,"ignored":0,"failed":0,"not_run":0,"duration":2,"status":"ok","id":"system_test_data","updatedAt":1423685527}
+  data: {"passed":360,"last_passed":360,"ignored":0,"failed":0,"not_run":0,"duration":2,"status":"ok","id":"system_test_data","updatedAt":1423707411}
 
 squickquote_gui_test_data: |+
   data: {"passed":4,"last_passed":4,"ignored":0,"failed":0,"not_run":0,"duration":58,"status":"ok","id":"squickquote_gui_test_data","updatedAt":1418797062}
